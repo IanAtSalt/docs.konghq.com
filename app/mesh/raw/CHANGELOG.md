@@ -8,6 +8,19 @@
 * chore(deps): bump kumahq/kuma from bba743f5ae56 to 45dd7ae49 [#3622](https://github.com/Kong/kong-mesh/pull/3622) [#3648](https://github.com/Kong/kong-mesh/pull/3648) [#3717](https://github.com/Kong/kong-mesh/pull/3717) [#3769](https://github.com/Kong/kong-mesh/pull/3769) [#3808](https://github.com/Kong/kong-mesh/pull/3808) [#3812](https://github.com/Kong/kong-mesh/pull/3812) [#3820](https://github.com/Kong/kong-mesh/pull/3820) @kong-mesh,@michaelbeaumont
 
 
+## 2.0.7
+> Released on 2023/07/28
+
+* chore(deps): upgrade envoy to 1.24.10 [#7364](https://github.com/kumahq/kuma/pull/7364) @lukidzi
+* chore(deps): bump kumahq/kuma from d8705e29be4c to 4ecbae545 [#3860](https://github.com/Kong/kong-mesh/pull/3860) [#3878](https://github.com/Kong/kong-mesh/pull/3878) @kong-mesh
+
+
+## 1.9.8
+> Released on 2023/07/27
+
+* chore(deps): upgrade envoy to 1.24.10 [#7365](https://github.com/kumahq/kuma/pull/7365) @lukidzi
+* fix(kuma-cp): order resources for building VIPs (backport of #7333) [#7360](https://github.com/kumahq/kuma/pull/7360) @kumahq
+
 ## 2.2.3
 > Released on 2023/07/21
 * update Envoy version to 1.25.8 which includes fix for [CVE-2023-35945](https://github.com/envoyproxy/envoy/security/advisories/GHSA-jfxv-29pc-x22r)
